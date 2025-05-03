@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+.envrc
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# Playwright cache
+**/ms-playwright/
+
+# Byte-compiled / cache
+*.log
+*.pid
+*.pyc
+*.pyo
+*.pyd
+
+# macOS/Linux
+.DS_Store
+.cache/
